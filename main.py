@@ -133,8 +133,8 @@ def main(config):
         os.makedirs(swanlab_dir := (os.path.join(config.OUTPUT, "swanlab")), exist_ok=True)
 
         swanlab_runer=swanlab.init(
-            project="Swin_Fintune", 
-            entity="SJTU", 
+            project=" ", 
+            entity=" ", 
             group=group_name,
             name=swanlab_name,
             config={
