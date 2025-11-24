@@ -27,7 +27,7 @@ This project use [Swanlab](https://swanlab.cn/) to log information and report. R
 If you find this project helpful in your research, please consider citing our papers:
 
 ```text
-
+Life-IQA: Boosting Blind Image Quality Assessment through GCN-enhanced Layer Interaction and MoE-based Feature Decoupling
 ```
 
 ## Acknowledgement
