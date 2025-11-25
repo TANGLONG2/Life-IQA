@@ -1,6 +1,6 @@
 # Life-IQA
 
-Checkpoints, logs and source code for paper'[Life-IQA: Boosting Blind Image Quality Assessment through GCN-enhanced Layer Interaction and MoE-based Feature Decoupling](https://arxiv.org/abs/2304.04952)'
+Checkpoints, logs and source code for paper:'[Life-IQA: Boosting Blind Image Quality Assessment through GCN-enhanced Layer Interaction and MoE-based Feature Decoupling](https://arxiv.org/abs/2304.04952)'
 
 
 ## Dependencies
