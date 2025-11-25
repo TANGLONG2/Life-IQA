@@ -37,7 +37,7 @@ If you find this project helpful in your research, please consider citing our pa
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2511.19024}, 
 }
-}
+
 ```
 
 ## Acknowledgement
