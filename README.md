@@ -1,6 +1,6 @@
 # Life-IQA
 
-Checkpoints, logs and source code for paper:'[Life-IQA: Boosting Blind Image Quality Assessment through GCN-enhanced Layer Interaction and MoE-based Feature Decoupling](https://arxiv.org/abs/2304.04952)'
+Checkpoints, logs and source code for paper:'[Life-IQA: Boosting Blind Image Quality Assessment through GCN-enhanced Layer Interaction and MoE-based Feature Decoupling](https://arxiv.org/abs/2511.19024)'
 
 
 ## Dependencies
@@ -28,14 +28,15 @@ This project use [Swanlab](https://swanlab.cn/) to log information and report. R
 If you find this project helpful in your research, please consider citing our papers:
 
 ```text
-@misc{qin2023dataefficientimagequalityassessment,
-      title={Data-Efficient Image Quality Assessment with Attention-Panel Decoder}, 
-      author={Guanyi Qin and Runze Hu and Yutao Liu and Xiawu Zheng and Haotian Liu and Xiu Li and Yan Zhang},
-      year={2023},
-      eprint={2304.04952},
+@misc{tang2025lifeiqaboostingblindimage,
+      title={Life-IQA: Boosting Blind Image Quality Assessment through GCN-enhanced Layer Interaction and MoE-based Feature Decoupling}, 
+      author={Long Tang and Guoquan Zhen and Jie Hao and Jianbo Zhang and Huiyu Duan and Liang Yuan and Guangtao Zhai},
+      year={2025},
+      eprint={2511.19024},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2304.04952}, 
+      url={https://arxiv.org/abs/2511.19024}, 
+}
 }
 ```
 
