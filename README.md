@@ -1,6 +1,7 @@
 # Life-IQA
 
-Checkpoints, logs and source code for paper: '[Life-IQA: Boosting Blind Image Quality Assessment through GCN-enhanced Layer Interaction and MoE-based Feature Decoupling]'
+Checkpoints, logs and source code for paper'[Data-Efficient Image Quality Assessment with Attention-Panel Decoder](https://arxiv.org/abs/2304.04952)'
+
 
 ## Dependencies
 The code is implemented on Ubuntu20.04 CUDA11.8.
